@@ -123,3 +123,75 @@ This project demonstrates the ability to:
 
 ---
 
+
+## 📊 Project Workflow
+
+- Data Cleaning (handling null values, formatting)
+  
+- Data Transformation (feature creation, merging datasets)
+  
+- Data Analysis (grouping, aggregations, insights)
+  
+- Business Insights Extraction
+
+---
+
+
+## 🔍 Key Insights
+
+- Identified trends in employee performance and project allocation
+  
+- Analyzed salary distribution and bonus calculation logic
+  
+- Derived insights on employee seniority and project contribution
+  
+- Highlighted data inconsistencies and resolved missing values  
+
+---
+
+
+## 📁 Dataset Information
+
+The dataset includes:
+
+- Employee ID, Name, Department
+  
+- Salary and Bonus calculations
+  
+- Project assignments
+  
+- Seniority levels  
+
+---
+
+
+## ▶️ How to Run
+
+1. Clone the repository
+   
+2. Open the `.ipynb` file in Jupyter Notebook
+   
+3. Run all cells step-by-step
+   
+
+---
+
+## 🚀 What I Learned
+
+- Data cleaning and preprocessing using Pandas
+  
+- Handling missing and inconsistent data
+  
+-  Writing efficient data transformation logic
+  
+- Extracting business insights from raw datasets  
+
+---
+
+
+## 👨‍💻 Author
+
+**Caleb Santhosh Singh**  
+Aspiring Data Analyst  
+
+🔗 LinkedIn: https://www.linkedin.com/in/caleb-santhosh-singh-6130631b5
